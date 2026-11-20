@@ -1,0 +1,78 @@
+NETWORKWALKS
+WEEK 3 - FINAL INTERNSHIP REPORT
+
+Name: Mayukha Mohan
+Branch: Electronics and Computer Science
+Organization: NetworkWalks
+
+PROJECT MODULES COMPLETED
+1. PM1 – Password Cracking with John the Ripper
+2. PM2 – Password Cracking with NetworkWalks Tools
+
+1. INTRODUCTION
+
+During Week 3 of my cybersecurity internship at NetworkWalks, I worked on two practical modules related to password security and password recovery. These activities helped me understand password security concepts and become familiar with cybersecurity tools.
+
+2. PROJECT MODULE 1 – JOHN THE RIPPER
+
+Objective:
+To understand the working of John the Ripper and Johnny tools in a password security lab environment.
+
+Tools Used:
+- John the Ripper
+- Johnny
+- Windows operating system
+- Sample password-protected PDF
+
+Work Completed:
+- Downloaded and extracted the required tool files.
+- Installed and opened Johnny.
+- Configured Johnny to detect John the Ripper.
+- Explored the available interface and tool options.
+- Completed the assigned practical activities using the provided lab material.
+
+Learning Outcomes:
+- Understood the purpose of John the Ripper.
+- Learned about password security testing.
+- Became familiar with the Johnny graphical interface.
+- Improved understanding of password protection.
+
+3. PROJECT MODULE 2 – NETWORKWALKS TOOLS
+
+Objective:
+To understand the password recovery workflow using the NetworkWalks lab tools.
+
+Tools Used:
+- NetworkWalks Hash Calculator
+- NetworkWalks Password Cracker
+- Sample password-protected PDF
+- Web browser
+
+Work Completed:
+- Accessed the provided NetworkWalks lab resources.
+- Worked through the practical instructions in the project module.
+- Observed the results produced by the lab tools.
+- Completed the assigned practical workflow.
+- Verified the outcome using the provided sample PDF.
+
+Learning Outcomes:
+- Understood the purpose of password hashes.
+- Learned about password recovery concepts.
+- Explored the NetworkWalks lab tools.
+- Improved practical knowledge of password security.
+
+4. OVERALL LEARNING OUTCOMES
+
+- Gained introductory knowledge of password security.
+- Became familiar with cybersecurity tools.
+- Understood the importance of strong passwords.
+- Improved practical lab experience.
+- Learned to follow technical instructions and maintain evidence of completed tasks.
+
+5. CONCLUSION
+
+Week 3 provided practical exposure to password security concepts and cybersecurity tools. Completing both project modules helped me improve my understanding of password protection, password testing concepts, and the use of security tools in a controlled lab environment.
+
+Submitted by:
+Mayukha Mohan
+NetworkWalks Cybersecurity Internship
